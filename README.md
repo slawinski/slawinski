@@ -1,4 +1,6 @@
 ### Hi there 👋
+Visitor counters are back on the menu boys! 
+![Visitor Count](https://profile-counter.glitch.me/slawinski/count.svg)
 
 <!--
 **slawinski/slawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
