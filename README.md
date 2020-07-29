@@ -1,5 +1,5 @@
 ### Hi there 👋
-Visitor counters are back on the menu boys! 
+Visitor counters are back on the menu! 
 
 ![Visitor Count](https://profile-counter.glitch.me/slawinski/count.svg)
 
