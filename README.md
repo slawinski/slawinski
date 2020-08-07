@@ -1,7 +1,13 @@
-### Hi there 👋
-Visitor counters are back on the menu! 
+### Hi there, I'm Piotr 👋
+Visitor counters are back on the menu!
 
 ![Visitor Count](https://profile-counter.glitch.me/slawinski/count.svg)
+
+### Website
+- [slawinski.dev](https://slawinski.dev/)
+
+### Find me
+- [Twitter](https://twitter.com/piotr_slawinski)
 
 <!--
 **slawinski/slawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
