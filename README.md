@@ -9,7 +9,10 @@ Visitor counters are back on the menu!
 ### Find me
 - [Twitter](https://twitter.com/piotr_slawinski)
 
-![github language split](https://ghui.vercel.app/pie.png?username=slawinski)
+### Github language split
+<!-- <p align="center"> -->
+  <img src="https://ghui.vercel.app/pie.png?username=slawinski" alt="github language split" width="600px" />
+<!-- </p> -->
 
 <!--
 **slawinski/slawinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
