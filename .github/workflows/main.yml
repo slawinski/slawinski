@@ -14,15 +14,17 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          
+          # Base plugin
           base: header
-
+          # Isometric calndar plugin
           plugin_isocalendar: yes
-    
+          # Languages plugin
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
-          
+          # RSS plugin
           plugin_rss: yes
           plugin_rss_source: https://slawinski.dev/rss.xml
           plugin_rss_limit: 4
+          # Display order
+          config_order: base.header, isocalendar, languages, rss
