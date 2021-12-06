@@ -27,4 +27,4 @@ jobs:
           plugin_rss_source: https://slawinski.dev/rss.xml
           plugin_rss_limit: 4
           # Display order
-          config_order: base.header, isocalendar, languages, rss
+          config_order: base.header, isocalendar, languages
