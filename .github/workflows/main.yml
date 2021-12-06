@@ -17,3 +17,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
+          
+          plugin_rss: yes
+          plugin_rss_source: https://slawinski.dev/rss.xml
+          plugin_rss_limit: 4
