@@ -1091,10 +1091,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.45518329660013" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="211.45518329660013" y="0" width="124.83631763585858" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="336.2915009324587" y="0" width="64.11288618787412" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="400.40438712033284" y="0" width="59.59561287966718" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.23558625971498" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="211.23558625971498" y="0" width="124.67908465829682" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="335.91467091801184" y="0" width="64.56477765751403" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="400.47944857552585" y="0" width="59.52055142447415" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1106,7 +1106,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>45.97%</div>
+                                <div>45.92%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1117,7 +1117,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>13.94%</div>
+                                <div>14.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1130,7 +1130,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>27.14%</div>
+                                <div>27.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1141,7 +1141,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>12.96%</div>
+                                <div>12.94%</div>
                             </small>
                         </div>
                     </section>
@@ -1149,13 +1149,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.88kb of code in 18 edited files across 20 commits over last 1 day</small>
+                <small>estimation from 10.4kb of code in 24 edited files across 22 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="454.81925522252493" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.81925522252493" y="0" width="5.180744777475023" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1167,11 +1168,22 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>100%</div>
+                                <div>98.87%</div>
                             </small>
                         </div>
                     </section>
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JavaScript
+                            </div>
+                            <small>
+                                <div>1.13%</div>
+                            </small>
+                        </div>
                     </section>
                 </div>
             </section>
