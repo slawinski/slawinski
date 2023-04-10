@@ -1,4 +1,4 @@
-### Hi there, I'm Piotr 👋
+### Hello there, I'm Piotr 👋
 Visitor counters are back on the menu!
 
 ![Visitor Count](https://profile-counter.glitch.me/slawinski/count.svg)
