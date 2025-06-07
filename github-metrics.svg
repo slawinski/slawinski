@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1090,10 +1090,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.8105120685766" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="161.8105120685766" y="0" width="158.3338596886984" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="320.144371757275" y="0" width="94.71915181592601" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="414.863523573201" y="0" width="45.13647642679901" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.83133508413044" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="161.83133508413044" y="0" width="158.3316891007977" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="320.16302418492813" y="0" width="94.70651920221707" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="414.8695433871452" y="0" width="45.13045661285482" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
