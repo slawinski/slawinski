@@ -1143,15 +1143,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 22.1kb of code in 36 edited files across 9 commits over last 13 days</small>
+                <small>estimation from 53.4kb of code in 52 edited files across 13 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.7858467942627" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="312.7858467942627" y="0" width="139.5963983530157" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="452.3822451472784" y="0" width="7.617754852721596" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.1151671721143" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="346.1151671721143" y="0" width="110.73308622561683" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.8482533977311" y="0" width="3.151746602268898" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1163,7 +1163,7 @@
                                 TSX
                             </div>
                             <small>
-                                <div>68%</div>
+                                <div>75.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1174,7 +1174,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>1.66%</div>
+                                <div>0.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1187,7 +1187,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>30.35%</div>
+                                <div>24.07%</div>
                             </small>
                         </div>
                     </section>
